@@ -31,8 +31,8 @@ export default function Hero() {
 
           {/* Subtitle */}
           <p className="uppercase tracking-[6px] text-sky-300 mb-6 text-xs sm:text-sm text-center">
-  Nepal Aviation Innovation
-</p>
+            Nepal Aviation Innovation
+          </p>
 
           {/* Heading */}
           <h1 className="text-4xl sm:text-6xl lg:text-8xl font-bold leading-[1.05] text-center lg:text-left">
@@ -48,7 +48,7 @@ export default function Hero() {
           </h1>
 
           {/* Description */}
-          <p className="max-w-2xl mx-auto lg:mx-0 mt-8 text-white/75 text-base sm:text-lg leading-relaxed text-center lg:text-left">
+          <p className="max-w-2xl mx-auto mt-8 text-white/75 text-base sm:text-lg leading-relaxed text-center">
             Fly Nepal is redefining aerospace innovation,
             sustainable aviation systems, and advanced air mobility
             through world-class engineering and aviation technology.
